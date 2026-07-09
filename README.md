@@ -53,3 +53,11 @@ The logic behind the tool follows the same four stages every time, left to right
 | Reads all tabs   |      | Auto-types fields|      | Point-and-click  |      | Generates active |
 | at once locally  |      | as menu options  |      | database joins   |      | dynamic charts   |
 +------------------+      +------------------+      +------------------+      +------------------+
+```
+
+---
+
+## 5. What is next
+Download all-inclusive TAR GZIP file to your Mac or Windows, and run the corresponding file. That's it!
+
+
