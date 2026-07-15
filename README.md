@@ -3,6 +3,8 @@
 Every week, teams spend hours doing the exact same tedious task: downloading raw data reports, copying and pasting rows into an Excel master file, and manually tweaking charts so they look good for leadership. It’s an exhausting routine where a single broken cell or a misaligned formula can throw off an entire afternoon. 
 
 The `auto-dashboarding-Excel-worksheet` tool changes all of that. It acts like an invisible assistant that completely takes over the heavy lifting of data cleanup. Instead of rebuilding your charts and reports from scratch every single week or month, this tool sets up a simple, permanent pipeline that handles the messy work behind the scenes. 
+<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/e25ebeee-d9e6-4858-861d-81fb4153e541" />
+
 
 For you and your team, the entire workflow becomes as simple as **Drop, Click, and View**:
 
